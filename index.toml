@@ -145,10 +145,6 @@ file = "mods/do_a_barrel_roll-fabric-3.6.1+1.20.1.jar"
 hash = "c9c337ab040331814e093392f05f93be10f0fe5846fe59649dd718e714c8e155"
 
 [[files]]
-file = "mods/dragnsounds-fabric-1.20.1-alpha-0.2.2-1.jar"
-hash = "11687287ffd6642a1bb88363d6714564369d518c1c26bc5b58c67d6faea6062e"
-
-[[files]]
 file = "mods/dragonlib-fabric-1.20.1-beta-3.0.24.jar"
 hash = "3850822790ec8249740bd5936b6a9b5b4e27699c0ef395268c640e6db1e14670"
 
@@ -11423,3 +11419,7 @@ hash = "46b6ce011f0d0e7706545740ef365fcd770d017e6f75963a72d16a2b03de7737"
 [[files]]
 file = "overrides/shaderpacks/miniature-shader-2.18.9.zip.txt"
 hash = "c21d8663f2b18d9597739db0483a5a9a83ab3aa0576509021268fcb9146f7261"
+
+[[files]]
+file = "test_download.jar"
+hash = "f85eceacae92a5474d03328fbdc88908a27b7371f98f9224434534337bcb5feb"
