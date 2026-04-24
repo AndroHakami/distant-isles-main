@@ -165,6 +165,10 @@ file = "mods/copycats-2.2.2+mc.1.20.1-fabric.jar"
 hash = "3e697c6f3d83bfba4ed288c597c0f26b251d9a5fa4fa7cc0d4faad6f6e039407"
 
 [[files]]
+file = "mods/coroutil-fabric-1.20.1-1.3.7.jar"
+hash = "a97d58b44cf1ce8cf4fa8fded9c3c574ef1dd95e7fbb073f854e7fbce9c588b3"
+
+[[files]]
 file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar"
 hash = "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a"
 
@@ -208,6 +212,10 @@ hash = "c542e2115ac322c5fa5c18f87a1a860bb1547514b39d81f4fad60983673f0d87"
 [[files]]
 file = "mods/fabric-api-0.92.6+1.20.1.jar"
 hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar"
+hash = "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f"
 
 [[files]]
 file = "mods/fancymenu_fabric_3.8.1_MC_1.20.1.jar"
@@ -272,6 +280,10 @@ hash = "289b85426a1a242f8e6e31565cae9e064469d474283266c5c43b7b75b4f01543"
 [[files]]
 file = "mods/lexiconfig-fabric-1.4.18.jar"
 hash = "92b4303470e4ce5bf3324b2895b1ace0d00762d66a8537b0954b52ed33ab23e8"
+
+[[files]]
+file = "mods/libIPN-forge-1.20-4.0.2.jar"
+hash = "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
 
 [[files]]
 file = "mods/mcw-doors-1.1.2-mc1.20.1fabric.jar"
