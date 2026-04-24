@@ -173,6 +173,10 @@ file = "mods/create-fabric-6.0.8.1+build.1744-mc1.20.1.jar"
 hash = "a613603fb08d967c5a4138d1adb7374c4a347b91e489fe21579a4cff4f40105a"
 
 [[files]]
+file = "mods/createdeco-2.1.1-1.20.1-fabric.jar"
+hash = "7a72ee9c8da0b478256263c1e75ad4541b902cffb3c314bdb91850ead6fcfd4a"
+
+[[files]]
 file = "mods/do_a_barrel_roll-fabric-3.6.1+1.20.1.jar"
 hash = "c9c337ab040331814e093392f05f93be10f0fe5846fe59649dd718e714c8e155"
 
