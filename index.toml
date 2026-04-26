@@ -129,6 +129,10 @@ file = "mods/blockbeats-fabric-1.20.1-alpha-0.2.1-1.jar"
 hash = "75f4123e27ed0a2f321a3f9241b618d0e8c18c9def5b4c8cdc5ae26e03202e8b"
 
 [[files]]
+file = "mods/capes-1.5.2+1.20-fabric.jar"
+hash = "3e1068e2998bccb5520a229a7c28fd862367f37d52fa29108d3c71ce81549762"
+
+[[files]]
 file = "mods/chat_heads-0.14.0-fabric-1.20.jar"
 hash = "1c306ca1907ad506eaf437ffe067c5c95c2d59cfa9dae159b26eb5433b4eade9"
 
