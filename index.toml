@@ -350,6 +350,10 @@ file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar.disabled"
 hash = "0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018"
 
 [[files]]
+file = "mods/polymorph-fabric-0.49.10+1.20.1.jar"
+hash = "05b611960c486c745db6a32b92951dfcb80b26ba2e7b96e12a6f43517830cffb"
+
+[[files]]
 file = "mods/radio-1.1.1+1.20.1.fabric.jar"
 hash = "1ced1ce74fe75b913333e8feb4e57faaa621023f608c031d3afada97d6ed8545"
 
