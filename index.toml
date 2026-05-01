@@ -9,6 +9,10 @@ file = "imgbb.html"
 hash = "fabab1b1f52830dbfb37d06e01321d19e653492f52a852fc235f20d5200a68ce"
 
 [[files]]
+file = "mods/BeansBackpacks-fabric-1.20.1-2.0.2.jar"
+hash = "47a5dd175d8609d257811549c90e6ef7dec72ec287c328d2cb034bbea2e4246b"
+
+[[files]]
 file = "mods/Chunky-1.3.146.jar"
 hash = "ae7fb9d35a3a9d9d4f2104aeae7b31a901c5e5842891e2edd9ddcc42c2646a38"
 
@@ -342,8 +346,8 @@ file = "mods/musicsync-1.3+1.20.jar"
 hash = "4f7e49e65562a0b20be86bbc6584d850f13dfc67faf479819bdaf5dd9242ce5e"
 
 [[files]]
-file = "mods/odd-1.1.3-1.20.1.jar"
-hash = "753d6319c8af5d1199ffc1e640942e7bcf97e8aec1021c8bf0bbfc83f7704198"
+file = "mods/odd-1.2.0-1.20.1.jar"
+hash = "730d5df19c748210e4dd06cad676b1897efa4683269de3269d05a54274bbee75"
 
 [[files]]
 file = "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar.disabled"
